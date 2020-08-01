@@ -1,0 +1,14 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Arvin",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+  }
+}
