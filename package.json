@@ -7,6 +7,9 @@
     "start": "node index.js"
   },
   "author": "Arvin",
+  "engines": {
+    "node": "12.x"
+  },
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0",
